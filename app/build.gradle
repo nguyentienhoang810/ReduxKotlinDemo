@@ -34,4 +34,5 @@ dependencies {
 
 //    ReKotlin
     implementation 'org.rekotlin:rekotlin:1.0.0'
+    implementation 'io.reactivex:rxkotlin:0.30.1'
 }
