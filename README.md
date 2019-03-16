@@ -1,0 +1,1 @@
+start kotlin with redux
